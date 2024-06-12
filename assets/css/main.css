@@ -191,7 +191,7 @@ input, select, textarea {
 		clear: both;
 	}
 
-	hr {
+	/*hr {
 		border: 0;
 		border-top: solid 1px #444;
 		border-top-color: rgba(0, 0, 0, 0.35);
@@ -199,7 +199,7 @@ input, select, textarea {
 		height: 1px;
 		margin: 3em 0;
 	}
-
+*/
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
