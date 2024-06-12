@@ -22,7 +22,7 @@ body.is-preload {
 
 .project .date {
     font-size: 0.9em;
-    color: gray;
+    color: red;
 }
 
 .image.featured {
