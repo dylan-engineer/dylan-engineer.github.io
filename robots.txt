@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dylan-engineer.github.io/sitemap.xml

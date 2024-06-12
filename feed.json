@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dylan-engineer",
+    "description": "",
+    "home_page_url": "https://dylan-engineer.github.io",
+    "feed_url": "https://dylan-engineer.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "dylan"
+    },
+    "items": [
+        {
+            "id": "https://dylan-engineer.github.io/testing.html",
+            "url": "https://dylan-engineer.github.io/testing.html",
+            "title": "testing",
+            "summary": "This is a test for my project page",
+            "content_html": "<p>This is a test for my project page</p>\n<p> </p>",
+            "author": {
+                "name": "dylan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-12T04:17:52-07:00",
+            "date_modified": "2024-06-12T14:40:37-07:00"
+        }
+    ]
+}
