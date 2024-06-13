@@ -1208,7 +1208,7 @@ textarea {
           box-sizing: content-box;
   max-width: var(--entry-width,100px);
   margin: 0 auto;
-  padding: 0 var(--page-margin) 0 40%;
+  padding: 0 40% 0 20px;
 }
 
 .readmore {
