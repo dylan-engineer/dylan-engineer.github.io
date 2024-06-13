@@ -1316,13 +1316,7 @@ textarea {
   height: auto;
   width: 100%;
 }
-.feed__meta {
-  align-items: center;
-  color: var(--gray);
-  display: flex;
-  font-size: 12.8239746086rem;
-  margin-bottom: calc(-1.1333333333rem - 1vw);
-}
+
 .feed__author {
   font-family: var(--menu-font);
   font-variation-settings: "wght" var(--font-weight-bold);
