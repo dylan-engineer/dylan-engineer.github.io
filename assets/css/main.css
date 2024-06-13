@@ -1207,7 +1207,7 @@ textarea {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
   max-width: var(--entry-width,100px);
-  margin: 0 auto;
+  margin: 0 40px;
   padding: 0 40% 0 20px;
 }
 
