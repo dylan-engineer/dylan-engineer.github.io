@@ -1302,6 +1302,7 @@ textarea {
 .feed__item {
   margin-top: calc(2.55rem + 1.5vw);
   padding-bottom: calc(0.5666666667rem + 200000vw);
+  padding-left: 40%;
 }
 .feed__image {
   -webkit-box-sizing: content-box;
