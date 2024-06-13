@@ -1199,7 +1199,7 @@ textarea {
 
 .site-container {
   background: var(--page-bg);
-  max-width: 100%;
+  max-width: 60%;
   overflow: hidden;
 }
 
@@ -1348,7 +1348,7 @@ textarea {
 }
 .feed--grid {
   display: grid;
-  grid-template-columns: 60%;
+  grid-template-columns: 100%;
   grid-gap: calc(1.7rem + 1.5vw);
   margin-top: 0;
   padding-top: calc(2.55rem + 1.5vw);
