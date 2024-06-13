@@ -1199,18 +1199,16 @@ textarea {
 
 .site-container {
   background: var(--page-bg);
-  max-width: 50%;
-  margin-left: 0;
-  margin-right: auto;
+  max-width: 100%;
   overflow: hidden;
 }
 
 .wrapper {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
-  max-width: var(--entry-width,100px);
-  margin: 0 10000px;
-  padding: 0 40% 0 20px;
+  max-width: var(--entry-width);
+  margin: 0 auto;
+  padding: 0 var(--page-margin);
 }
 
 .readmore {
@@ -1237,7 +1235,7 @@ textarea {
   position: absolute;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
-  width: 60%;
+  width: 100%;
   z-index: 2;
 }
 .hero__content h1 {
@@ -1303,8 +1301,7 @@ textarea {
 
 .feed__item {
   margin-top: calc(2.55rem + 1.5vw);
-  padding-bottom: calc(0.5666666667rem + 200000vw);
-  padding-left: 40%;
+  padding-bottom: calc(0.5666666667rem + 1vw);
 }
 .feed__image {
   -webkit-box-sizing: content-box;
@@ -1318,7 +1315,13 @@ textarea {
   height: auto;
   width: 100%;
 }
-
+.feed__meta {
+  align-items: center;
+  color: var(--gray);
+  display: flex;
+  font-size: 0.8239746086rem;
+  margin-bottom: calc(-1.1333333333rem - 1vw);
+}
 .feed__author {
   font-family: var(--menu-font);
   font-variation-settings: "wght" var(--font-weight-bold);
@@ -1879,7 +1882,7 @@ textarea {
   left: 0;
   position: absolute;
   top: 0;
-  width: 60%;
+  width: 100%;
 }
 .pec-overlay {
   align-items: center;
@@ -2042,7 +2045,7 @@ textarea {
 @media all and (min-width: 56.25em) {
   .gallery-wrapper--wide {
     margin-left: calc(-1 * var(--page-margin));
-    margin-right: calc(-1 * 40%);
+    margin-right: calc(-1 * var(--page-margin));
   }
   .gallery-wrapper--wide .gallery {
     width: calc(100% + var(--gallery-gap) * 2);

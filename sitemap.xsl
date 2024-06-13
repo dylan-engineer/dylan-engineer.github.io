@@ -30,7 +30,7 @@
 
                     .wrapper {
                         margin: 20px auto;
-                        width: 60%;
+                        width: 1240px;
                     }
 
                     .header {
@@ -74,7 +74,7 @@
                     <table class="list" border="none" cellspacing="0" cellpadding="3">
                         <thead>
                             <tr>
-                                <th width="20%">URL</th>
+                                <th width="70%">URL</th>
                                 <th width="10%">Images</th>
                                 <th width="20%">Last Modified</th>
                             </tr>

@@ -3,7 +3,7 @@
     <title>Dylan | Engineer</title>
     <link href="https://dylan-engineer.github.io/feed.xml" rel="self" />
     <link href="https://dylan-engineer.github.io" />
-    <updated>2024-06-12T22:08:54-07:00</updated>
+    <updated>2024-06-13T00:56:36-07:00</updated>
     <author>
         <name>dylan</name>
     </author>
@@ -22,14 +22,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://dylan-engineer.github.io/media/posts/4/3d-printer-1.png" alt="" />
-                    People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with thgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggge platform. The goal of this project was to convert the normal functionality of an ender 3 printer into&hellip;
+                    People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with the platform. The goal of this project was to convert the normal functionality of an Ender 3 printer into&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dylan-engineer.github.io/media/posts/4/3d-printer-1.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://dylan-engineer.github.io/media/posts/4/edner-3-printer.jpg" alt="" width="347" height="242" sizes="100vw" srcset="https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-xs.jpg 300w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-sm.jpg 480w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-md.jpg 768w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-lg.jpg 1024w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-xl.jpg 1360w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-2xl.jpg 1600w"></figure>
-<p>People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with the platform. The goal of this project was to convert the normal functionality of an ender 3 printer into testing automation device. Some background information is needed here. Large aviation companies use Garmin Touch Controllers in their jets in order to provide the pilot information about fuel, aerlerons, etc. Engineers need to perform multiple hours of regression testing which involves them pushing the buttons on these controllers and marking either a pass or a fail. This is needed each time a new software drops or hardware is changed which is quite often. As you can image this process is highly tedious and involves hundreds of hours. I found a better way to automate this process </p>
+<p>People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with the platform. The goal of this project was to convert the normal functionality of an Ender 3 printer into testing automation device. Some background information is needed here. Large aviation companies use Garmin touch controllers in their jets that provide the pilot information about fuel, ailerons, etc. Engineers need to perform multiple hours of regression testing which involves them pushing the buttons on these controllers and marking them as either a pass or a fail. This is needed each time a new software drops or hardware is changed which is quite often. As you can image the process is highly tedious and involves hundreds of hours. I found a better way to automate this process </p>
 <p>Here is what it looks like: <a href="#INTERNAL_LINK#/null/undefined" title="https://www.youtube.com/watch?v=g25DBHyJu_o&amp;ab_channel=DylanJacobSun"></a></p>
 <div class="post__iframe"><iframe loading="lazy" width="649" height="375" style="width: 649px; height: 375px;" src="https://www.youtube.com/embed/g25DBHyJu_o" title="GTC Claw Automation Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
