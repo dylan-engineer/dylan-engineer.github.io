@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "dylan-engineer",
+    "title": "Dylan | Engineer",
     "description": "",
     "home_page_url": "https://dylan-engineer.github.io",
     "feed_url": "https://dylan-engineer.github.io/feed.json",
@@ -10,18 +10,32 @@
     },
     "items": [
         {
-            "id": "https://dylan-engineer.github.io/testing.html",
-            "url": "https://dylan-engineer.github.io/testing.html",
-            "title": "testing",
-            "summary": "This is a test for my project page",
-            "content_html": "<p>This is a test for my project page</p>\n<p> </p>",
+            "id": "https://dylan-engineer.github.io/garmin-touch-controller-automation-robot.html",
+            "url": "https://dylan-engineer.github.io/garmin-touch-controller-automation-robot.html",
+            "title": "Garmin Touch Controller - Automation Robot",
+            "summary": "People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with the platform. The goal of this project was to convert the normal functionality of an ender 3 printer into&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dylan-engineer.github.io/media/posts/4/edner-3-printer.jpg\" alt=\"\" width=\"347\" height=\"242\" sizes=\"100vw\" srcset=\"https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-xs.jpg 300w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-sm.jpg 480w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-md.jpg 768w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-lg.jpg 1024w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-xl.jpg 1360w ,https://dylan-engineer.github.io/media/posts/4/responsive/edner-3-printer-2xl.jpg 1600w\"></figure>\n<p>People assume that the Ender 3 Creality board is only good for 3d printing applications, but I had more interesting ideas on what to do with the platform. The goal of this project was to convert the normal functionality of an ender 3 printer into testing automation device. Some background information is needed here. Large aviation companies use Garmin Touch Controllers in their jets in order to provide the pilot information about fuel, aerlerons, etc. Engineers need to perform multiple hours of regression testing which involves them pushing the buttons on these controllers and marking either a pass or a fail. This is needed each time a new software drops or hardware is changed which is quite often. As you can image this process is highly tedious and involves hundreds of hours. I found a better way to automate this process </p>\n<p>Here is what it looks like: <a href=\"#INTERNAL_LINK#/null/undefined\" title=\"https://www.youtube.com/watch?v=g25DBHyJu_o&amp;ab_channel=DylanJacobSun\"></a></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"649\" height=\"375\" style=\"width: 649px; height: 375px;\" src=\"https://www.youtube.com/embed/g25DBHyJu_o\" title=\"GTC Claw Automation Robot\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "dylan"
             },
             "tags": [
             ],
-            "date_published": "2024-06-12T04:17:52-07:00",
-            "date_modified": "2024-06-12T14:40:37-07:00"
+            "date_published": "2024-06-12T17:46:59-07:00",
+            "date_modified": "2024-06-12T18:25:28-07:00"
+        },
+        {
+            "id": "https://dylan-engineer.github.io/about-me.html",
+            "url": "https://dylan-engineer.github.io/about-me.html",
+            "title": "About Me",
+            "summary": "My name is Dylan Sun and I like to make things. I am a software engineer working in embedded systems and firmware development.",
+            "content_html": "<p>My name is Dylan Sun and I like to make things. I am a software engineer working in embedded systems and firmware development.</p>",
+            "author": {
+                "name": "dylan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-12T16:59:35-07:00",
+            "date_modified": "2024-06-12T17:08:23-07:00"
         }
     ]
 }
