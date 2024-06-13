@@ -1235,7 +1235,7 @@ textarea {
   position: absolute;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
-  width: 100%;
+  width: 60%;
   z-index: 2;
 }
 .hero__content h1 {
