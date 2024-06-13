@@ -1206,7 +1206,7 @@ textarea {
 .wrapper {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
-  max-width: var(--entry-width);
+  max-width: var(--entry-width,500px);
   margin: 0 auto;
   padding: 0 var(--page-margin);
 }
