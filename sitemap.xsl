@@ -30,7 +30,7 @@
 
                     .wrapper {
                         margin: 20px auto;
-                        width: 1240px;
+                        width: 60%;
                     }
 
                     .header {
