@@ -1199,7 +1199,9 @@ textarea {
 
 .site-container {
   background: var(--page-bg);
-  max-width: 60%;
+  max-width: 50%;
+  margin-left: 0;
+  margin-right: auto;
   overflow: hidden;
 }
 
