@@ -2045,7 +2045,7 @@ textarea {
 @media all and (min-width: 56.25em) {
   .gallery-wrapper--wide {
     margin-left: calc(-1 * var(--page-margin));
-    margin-right: calc(-1 * var(--page-margin));
+    margin-right: calc(-1 * 40%);
   }
   .gallery-wrapper--wide .gallery {
     width: calc(100% + var(--gallery-gap) * 2);
